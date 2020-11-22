@@ -1,5 +1,5 @@
 # Write your solution here
-If current_time % 2 == 0 
+If Time.now.to_i % 2 == 0 
 puts "Even!"
 else 
   puts "Odd!"
